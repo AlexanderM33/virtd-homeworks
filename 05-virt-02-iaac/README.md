@@ -44,6 +44,35 @@
 
 *Приложите вывод команд установленных версий каждой из программ, оформленный в Markdown.*
 
+````
+root@Ubuntu2204:~# virtualbox -h
+Oracle VM VirtualBox VM Selector v6.1.38_Ubuntu
+(C) 2005-2022 Oracle Corporation
+All rights reserved.
+
+No special options.
+
+If you are looking for --startvm and related options, you need to use VirtualBoxVM.
+root@Ubuntu2204:~# vboxmanage --version
+6.1.38_Ubuntur153438
+root@Ubuntu2204:~# vagrant --version
+Vagrant 2.3.7
+root@Ubuntu2204:~# ansible --version
+ansible [core 2.15.3]
+  config file = None
+  configured module search path = ['/root/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /root/.local/lib/python3.10/site-packages/ansible
+  ansible collection location = /root/.ansible/collections:/usr/share/ansible/collections
+  executable location = /usr/bin/ansible
+  python version = 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0] (/usr/bin/python3)
+  jinja version = 3.0.3
+  libyaml = True
+root@Ubuntu2204:~#
+
+
+````
+
+
 ## Задача 4 
 
 Воспроизведите практическую часть лекции самостоятельно.
