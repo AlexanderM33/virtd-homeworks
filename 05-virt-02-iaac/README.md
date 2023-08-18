@@ -55,8 +55,12 @@ No special options.
 If you are looking for --startvm and related options, you need to use VirtualBoxVM.
 root@Ubuntu2204:~# vboxmanage --version
 6.1.38_Ubuntur153438
+root@Ubuntu2204:~#
+root@Ubuntu2204:~#
 root@Ubuntu2204:~# vagrant --version
 Vagrant 2.3.7
+root@Ubuntu2204:~#
+root@Ubuntu2204:~#
 root@Ubuntu2204:~# ansible --version
 ansible [core 2.15.3]
   config file = None
@@ -68,6 +72,10 @@ ansible [core 2.15.3]
   jinja version = 3.0.3
   libyaml = True
 root@Ubuntu2204:~#
+root@Ubuntu2204:~# terraform --version
+Terraform v1.5.5
+on linux_amd64
+
 
 
 ````
