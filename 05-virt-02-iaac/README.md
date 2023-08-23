@@ -131,6 +131,12 @@ docker ps,
 ```
 Vagrantfile из лекции и код ansible находятся в [папке](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-02-iaac/src).
 
+
+![332333](https://github.com/AlexanderM33/virtd-homeworks/assets/122460278/54d75951-413e-463e-93d4-9d81011c529f)
+
+
+
+
 Примечание. Если Vagrant выдаёт ошибку:
 ```
 URL: ["https://vagrantcloud.com/bento/ubuntu-20.04"]     
