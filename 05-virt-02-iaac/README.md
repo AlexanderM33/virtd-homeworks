@@ -135,6 +135,14 @@ Vagrantfile из лекции и код ansible находятся в [папк�
 ![332333](https://github.com/AlexanderM33/virtd-homeworks/assets/122460278/54d75951-413e-463e-93d4-9d81011c529f)
 
 
+затем потестил файлы Ansible в папку с домашней работой и сделал 
+```
+vagrant provision
+```
+
+![55667](https://github.com/AlexanderM33/virtd-homeworks/assets/122460278/ae2bc1b9-a031-4f41-a877-9d2a33fb2a9a)
+
+
 
 
 Примечание. Если Vagrant выдаёт ошибку:
