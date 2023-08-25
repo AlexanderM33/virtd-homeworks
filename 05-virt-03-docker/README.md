@@ -94,7 +94,7 @@ https://hub.docker.com/repository/docker/mishinan/nginx/general
 
 - Gitlab-сервер для реализации CI/CD-процессов и приватный (закрытый) Docker Registry.
 ```
-
+Для изоляйии можно использовать докер
 ```
 
 
