@@ -44,21 +44,18 @@
 
 Чтобы получить зачёт, предоставьте: 
 
-![q4](https://github.com/AlexanderM33/virtd-homeworks/assets/122460278/8f524abd-f863-4fdd-8f29-75393e2f8533)
-
-![q3](https://github.com/AlexanderM33/virtd-homeworks/assets/122460278/00ba9a9d-92a7-4280-ac7f-a10111c72876)
 
 - скриншот работающего веб-интерфейса Grafana с текущими метриками, как на примере ниже.
 <p align="center">
   <img width="1200" height="600" src="./assets/yc_02.png">
 </p>
 
-## Задача 5 (*)
 
-Создайте вторую ВМ и подключите её к мониторингу, развёрнутому на первом сервере.
 
-Чтобы получить зачёт, предоставьте:
+![q3](https://github.com/AlexanderM33/virtd-homeworks/assets/122460278/00ba9a9d-92a7-4280-ac7f-a10111c72876)
 
-- скриншот из Grafana, на котором будут отображаться метрики добавленного вами сервера.
+![q4](https://github.com/AlexanderM33/virtd-homeworks/assets/122460278/8f524abd-f863-4fdd-8f29-75393e2f8533)
+
+
 
 
